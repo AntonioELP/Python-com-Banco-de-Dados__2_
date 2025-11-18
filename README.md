@@ -9,15 +9,8 @@ O sistema funciona pelo terminal e utiliza o banco SQLite para salvar as tarefas
 
 O projeto foi organizado em pastas para deixar o código mais limpo e fácil de entender:
 
-project/
-│
-├── main.py
-└── app/
-    ├── __init__.py
-    ├── database.py
-    ├── tarefa_service.py
-    └── menu.py
 
+![alt text](image.png)
 
 main.py → arquivo principal, inicia o sistema
 
